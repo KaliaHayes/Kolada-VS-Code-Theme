@@ -1,0 +1,2 @@
+# Kolada-VS-Code-Theme
+ 
