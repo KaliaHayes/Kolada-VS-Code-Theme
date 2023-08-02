@@ -1,0 +1,21 @@
+{
+  "name": "kolada",
+  "displayName": "Kolada",
+  "description": "A tropical, dark VS Code theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kolada",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kolada-color-theme.json"
+      }
+    ]
+  }
+}
