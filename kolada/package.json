@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.78.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaliaHayes/Kolada-VS-Code-Theme/"
+  },
   "categories": [
     "Themes"
   ],
