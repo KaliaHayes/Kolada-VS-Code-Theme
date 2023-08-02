@@ -12,7 +12,6 @@
             "outFiles": [
                 "${workspaceFolder}/out/**/*.js"
             ],
-            "preLaunchTask": "npm",
             "request": "launch",
             "type": "extensionHost"
         }
