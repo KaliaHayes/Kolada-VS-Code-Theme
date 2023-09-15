@@ -1,7 +1,9 @@
 # Kolada-VS-Code-Theme
 
 Created By: Kalia Hayes
+
 Status: Work In Progress!
+
 Link: https://marketplace.visualstudio.com/items?itemName=KaliaHayes.kolada
 
 If you like (dark) Pina Kolada! 
