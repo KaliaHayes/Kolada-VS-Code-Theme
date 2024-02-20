@@ -8,7 +8,7 @@ Link: https://marketplace.visualstudio.com/items?itemName=KaliaHayes.kolada
 
 If you like (dark) Pina Kolada! 
 ----
-<img width="1579" alt="image" src="https://github.com/KaliaHayes/Kolada-VS-Code-Theme/assets/15077866/738411eb-77c7-4761-87d8-20a1a5a19f23">
-<img width="1579" alt="image" src="https://github.com/KaliaHayes/Kolada-VS-Code-Theme/assets/15077866/e2911b1a-6a95-4d48-9b21-994495cfd357">
 
+<img width="1354" alt="image" src="https://github.com/KaliaHayes/Kolada-VS-Code-Theme/assets/15077866/4d35a545-b627-44b8-86b3-38a4a5f8bee2">
+<img width="1354" alt="image" src="https://github.com/KaliaHayes/Kolada-VS-Code-Theme/assets/15077866/71c235a1-8223-48e1-88d2-4cadaccea3f0">
 
