@@ -1,16 +1,14 @@
-# kolada README
+# Kolada-VS-Code-Theme
 
-## Working with Markdown
+Created By: Kalia Hayes
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Status: Work In Progress!
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Link: https://marketplace.visualstudio.com/items?itemName=KaliaHayes.kolada
 
-## For more information
+If you like (dark) Pina Kolada! 
+----
+<img width="1579" alt="image" src="https://github.com/KaliaHayes/Kolada-VS-Code-Theme/assets/15077866/738411eb-77c7-4761-87d8-20a1a5a19f23">
+<img width="1579" alt="image" src="https://github.com/KaliaHayes/Kolada-VS-Code-Theme/assets/15077866/e2911b1a-6a95-4d48-9b21-994495cfd357">
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**

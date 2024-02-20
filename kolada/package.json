@@ -3,7 +3,7 @@
   "displayName": "Kolada Theme",
   "description": "If you like (dark) Pina Kolada! A tropical, (dark) VS Code theme.",
   "publisher": "KaliaHayes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
