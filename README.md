@@ -4,7 +4,7 @@
 
 Created By: Kalia Hayes
 
-Status: Work In Progress!
+Status: Open for Feedback
 
 Link: https://marketplace.visualstudio.com/items?itemName=KaliaHayes.kolada
 
