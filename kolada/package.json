@@ -2,7 +2,7 @@
   "name": "kolada",
   "displayName": "Kolada Theme",
   "description": "If you like (dark) Pina Kolada! A tropical, (dark) VS Code theme.",
-  "icon": "/assets/kolada-icon.png",
+  "icon": "assets/kolada-icon.png",
   "publisher": "KaliaHayes",
   "version": "0.0.5",
   "engines": {
