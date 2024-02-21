@@ -1,12 +1,8 @@
-![kolada-icon](https://github.com/KaliaHayes/Kolada-VS-Code-Theme/assets/15077866/93c0a1eb-b68c-41ea-8108-cbda7ba41419)
+# Kolada VS Code Theme
 
-# Kolada-VS-Code-Theme
-
-Created By: <a href="https://kaliahayes.com" target="_blank">Kalia Hayes</a>
+If you like (dark) Piña Kolada! 
 
 Status: Open for Feedback
-
-If you like (dark) Pina Kolada! 
 
 ----
 
