@@ -4,7 +4,7 @@
   "description": "If you like (dark) Piña Kolada! A tropical, (dark) VS Code theme.",
   "icon": "assets/kolada-icon.png",
   "publisher": "KaliaHayes",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.78.0"
   },
