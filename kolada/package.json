@@ -1,6 +1,6 @@
 {
   "name": "kolada",
-  "displayName": "Kolada Theme",
+  "displayName": "Kolada",
   "description": "If you like (dark) Piña Kolada! A tropical, (dark) VS Code theme.",
   "icon": "assets/kolada-icon.png",
   "publisher": "KaliaHayes",
@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kolada Theme",
+        "label": "Kolada",
         "uiTheme": "vs-dark",
         "path": "./themes/Kolada-color-theme.json"
       }
