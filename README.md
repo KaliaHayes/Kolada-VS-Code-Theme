@@ -10,5 +10,5 @@ Link: https://marketplace.visualstudio.com/items?itemName=KaliaHayes.kolada
 
 ----
 
-<img width="1198" alt="image" src="https://github.com/KaliaHayes/Kolada-VS-Code-Theme/assets/15077866/ed7ca6de-85b1-404c-8d78-e507e8d8f48a">
-<img width="1203" alt="image" src="https://github.com/KaliaHayes/Kolada-VS-Code-Theme/assets/15077866/0c144199-4ded-4d6a-b577-3da1b3072c6e">
+<img width="1414" alt="image" src="https://github.com/user-attachments/assets/d0e0fdc4-0622-43ff-a15d-694f32cb7c27" />
+<img width="1414" alt="image" src="https://github.com/user-attachments/assets/c943cbc5-3445-4806-96dc-ce53f870b8f6" />
