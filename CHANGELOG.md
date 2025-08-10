@@ -7,3 +7,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.3.0] - 2025-06-10
 - Improved warning colors for tabs & editors (warm yellows instead of reds)
 - Flattened folder structure for standard VS Code theme layout
+
+## [0.4.0] - 2025-08-10
+- Improved visibility of IntelliSense suggestions
