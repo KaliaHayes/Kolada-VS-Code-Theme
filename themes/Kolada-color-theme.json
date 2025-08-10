@@ -2066,7 +2066,7 @@
 		"merge.incomingContentBackground": "#001c3d4d",
 		"merge.commonHeaderBackground": "#6060603b",
 		"merge.commonContentBackground": "#2828284f",
-		"editorSuggestWidget.background": "#0000004a",
+		"editorSuggestWidget.background": "#101010",
 		"editorSuggestWidget.border": "#111111",
 		"editorSuggestWidget.foreground": "#8da5b6",
 		"editorSuggestWidget.highlightForeground": "#40fdda",
